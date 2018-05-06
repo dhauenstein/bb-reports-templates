@@ -15,15 +15,15 @@ I have found a CSRF issue in xxx tab which allow an attacker to change a user da
 ```html
 <html>
   <body>
-    <form action="https://xxx.xxx.com" method="POST" target="_blank">
+    <form action="https://xxx.xxxxxxxxxxxx.xxx" method="POST" target="_blank">
       <input type="submit" value="Submit request" />
     </form>
   </body>
 </html>
 ```
-2/ Log on your xxxxxx account
-3/ open another tab
-4/ execute the 
+2/ Log on your account  
+3/ open another tab  
+4/ execute the script created previously  
 
 
 ## Risk
