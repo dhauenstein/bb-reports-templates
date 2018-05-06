@@ -20,7 +20,7 @@ Since HLS playlist can handle files as an external resource, it's possible to cr
 
 {}
 
-Don't waste your time trying to play the video , it doesn't work :)
+Don't waste your time trying to play the video, it doesn't work :)
 
 
 ## Step to reproduce
