@@ -26,7 +26,7 @@ https://developer.mozilla.org/fr/docs/HTTP/Headers/Content-Security-Policy
 - set a correct value to the HTTP header `Content-Security-Policy`  
 https://developer.mozilla.org/fr/docs/HTTP/Headers/X-Frame-Options
 
-- implement a frame breakder  
+- implement a frame breaker  
 https://www.thesitewizard.com/archive/framebreak.shtml
 
 
